@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NareshTelns
+- 👋 Hi, I’m @NareshTelnp
 - 👀 I’m interested in ... Java, Selenium, Javascript, Protractor, Typescript, BDD - Cucumber, Serenity, Jasmine, TestNG
 - 🌱 I’m currently learning ... Ruby on Rails
 - 💞️ I’m looking to collaborate on ...
